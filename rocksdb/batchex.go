@@ -83,7 +83,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/blevesearch/bleve/index/store"
+	"github.com/redsift/bleve/index/store"
 )
 
 type BatchEx struct {
