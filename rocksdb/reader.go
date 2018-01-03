@@ -11,7 +11,7 @@ package rocksdb
 
 import (
 	"github.com/redsift/bleve/index/store"
-	"github.com/tecbot/gorocksdb"
+	"github.com/redsift/gorocksdb"
 )
 
 type Reader struct {

@@ -10,3 +10,4 @@
 /preload/cmd/bleve_export/bleve_export
 *.test
 tags
+vendor

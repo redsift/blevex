@@ -1,6 +1,6 @@
 package rocksdb
 
-import "github.com/tecbot/gorocksdb"
+import "github.com/redsift/gorocksdb"
 
 func applyConfig(o *gorocksdb.Options, config map[string]interface{}) (
 	*gorocksdb.Options, error) {

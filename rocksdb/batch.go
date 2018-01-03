@@ -10,7 +10,7 @@
 package rocksdb
 
 import (
-	"github.com/tecbot/gorocksdb"
+	"github.com/redsift/gorocksdb"
 )
 
 type Batch struct {

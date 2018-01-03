@@ -12,7 +12,7 @@ package rocksdb
 import (
 	"bytes"
 
-	"github.com/tecbot/gorocksdb"
+	"github.com/redsift/gorocksdb"
 )
 
 type Iterator struct {

@@ -13,7 +13,7 @@ import (
 	"fmt"
 
 	"github.com/redsift/bleve/index/store"
-	"github.com/tecbot/gorocksdb"
+	"github.com/redsift/gorocksdb"
 )
 
 type Writer struct {
